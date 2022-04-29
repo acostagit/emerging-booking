@@ -1,0 +1,16 @@
+C:\Projetos\arquitetura-moderna-sw-cqrs-emergingbooking-curso\code\emerging-booking\Business\EmergingBooking.Reservation.Application\bin\Debug\netcoreapp3.1\EmergingBooking.Reservation.Application.deps.json
+C:\Projetos\arquitetura-moderna-sw-cqrs-emergingbooking-curso\code\emerging-booking\Business\EmergingBooking.Reservation.Application\bin\Debug\netcoreapp3.1\EmergingBooking.Reservation.Application.dll
+C:\Projetos\arquitetura-moderna-sw-cqrs-emergingbooking-curso\code\emerging-booking\Business\EmergingBooking.Reservation.Application\bin\Debug\netcoreapp3.1\EmergingBooking.Reservation.Application.pdb
+C:\Projetos\arquitetura-moderna-sw-cqrs-emergingbooking-curso\code\emerging-booking\Business\EmergingBooking.Reservation.Application\bin\Debug\netcoreapp3.1\EmergingBooking.Infrastructure.Cqrs.dll
+C:\Projetos\arquitetura-moderna-sw-cqrs-emergingbooking-curso\code\emerging-booking\Business\EmergingBooking.Reservation.Application\bin\Debug\netcoreapp3.1\EmergingBooking.Infrastructure.KafkaProducer.dll
+C:\Projetos\arquitetura-moderna-sw-cqrs-emergingbooking-curso\code\emerging-booking\Business\EmergingBooking.Reservation.Application\bin\Debug\netcoreapp3.1\EmergingBooking.Infrastructure.Storage.SqlServer.dll
+C:\Projetos\arquitetura-moderna-sw-cqrs-emergingbooking-curso\code\emerging-booking\Business\EmergingBooking.Reservation.Application\bin\Debug\netcoreapp3.1\EmergingBooking.Infrastructure.Cqrs.pdb
+C:\Projetos\arquitetura-moderna-sw-cqrs-emergingbooking-curso\code\emerging-booking\Business\EmergingBooking.Reservation.Application\bin\Debug\netcoreapp3.1\EmergingBooking.Infrastructure.KafkaProducer.pdb
+C:\Projetos\arquitetura-moderna-sw-cqrs-emergingbooking-curso\code\emerging-booking\Business\EmergingBooking.Reservation.Application\bin\Debug\netcoreapp3.1\EmergingBooking.Infrastructure.Storage.SqlServer.pdb
+C:\Projetos\arquitetura-moderna-sw-cqrs-emergingbooking-curso\code\emerging-booking\Business\EmergingBooking.Reservation.Application\obj\Debug\netcoreapp3.1\EmergingBooking.Reservation.Application.csprojAssemblyReference.cache
+C:\Projetos\arquitetura-moderna-sw-cqrs-emergingbooking-curso\code\emerging-booking\Business\EmergingBooking.Reservation.Application\obj\Debug\netcoreapp3.1\EmergingBooking.Reservation.Application.AssemblyInfoInputs.cache
+C:\Projetos\arquitetura-moderna-sw-cqrs-emergingbooking-curso\code\emerging-booking\Business\EmergingBooking.Reservation.Application\obj\Debug\netcoreapp3.1\EmergingBooking.Reservation.Application.AssemblyInfo.cs
+C:\Projetos\arquitetura-moderna-sw-cqrs-emergingbooking-curso\code\emerging-booking\Business\EmergingBooking.Reservation.Application\obj\Debug\netcoreapp3.1\EmergingBooking.Reservation.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\arquitetura-moderna-sw-cqrs-emergingbooking-curso\code\emerging-booking\Business\EmergingBooking.Reservation.Application\obj\Debug\netcoreapp3.1\EmergingBooking.Reservation.Application.csproj.CopyComplete
+C:\Projetos\arquitetura-moderna-sw-cqrs-emergingbooking-curso\code\emerging-booking\Business\EmergingBooking.Reservation.Application\obj\Debug\netcoreapp3.1\EmergingBooking.Reservation.Application.dll
+C:\Projetos\arquitetura-moderna-sw-cqrs-emergingbooking-curso\code\emerging-booking\Business\EmergingBooking.Reservation.Application\obj\Debug\netcoreapp3.1\EmergingBooking.Reservation.Application.pdb

@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EmergingBooking.Queries.Application/1.0.0": {
+        "dependencies": {
+          "EmergingBooking.Infrastructure.Cqrs": "1.0.0",
+          "EmergingBooking.Infrastructure.Storage.SqlServer": "1.0.0"
+        },
+        "runtime": {
+          "EmergingBooking.Queries.Application.dll": {}
+        }
+      },
+      "EmergingBooking.Infrastructure.Cqrs/1.0.0": {
+        "runtime": {
+          "EmergingBooking.Infrastructure.Cqrs.dll": {}
+        }
+      },
+      "EmergingBooking.Infrastructure.Storage.SqlServer/1.0.0": {
+        "runtime": {
+          "EmergingBooking.Infrastructure.Storage.SqlServer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmergingBooking.Queries.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmergingBooking.Infrastructure.Cqrs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmergingBooking.Infrastructure.Storage.SqlServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

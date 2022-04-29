@@ -1,0 +1,9 @@
+C:\Projetos\arquitetura-moderna-sw-cqrs-emergingbooking-curso\code\emerging-booking\Infrastructure\EmergingBooking.Infrastructure.Cqrs\bin\Debug\netcoreapp3.1\EmergingBooking.Infrastructure.Cqrs.deps.json
+C:\Projetos\arquitetura-moderna-sw-cqrs-emergingbooking-curso\code\emerging-booking\Infrastructure\EmergingBooking.Infrastructure.Cqrs\bin\Debug\netcoreapp3.1\EmergingBooking.Infrastructure.Cqrs.dll
+C:\Projetos\arquitetura-moderna-sw-cqrs-emergingbooking-curso\code\emerging-booking\Infrastructure\EmergingBooking.Infrastructure.Cqrs\bin\Debug\netcoreapp3.1\EmergingBooking.Infrastructure.Cqrs.pdb
+C:\Projetos\arquitetura-moderna-sw-cqrs-emergingbooking-curso\code\emerging-booking\Infrastructure\EmergingBooking.Infrastructure.Cqrs\obj\Debug\netcoreapp3.1\EmergingBooking.Infrastructure.Cqrs.csprojAssemblyReference.cache
+C:\Projetos\arquitetura-moderna-sw-cqrs-emergingbooking-curso\code\emerging-booking\Infrastructure\EmergingBooking.Infrastructure.Cqrs\obj\Debug\netcoreapp3.1\EmergingBooking.Infrastructure.Cqrs.AssemblyInfoInputs.cache
+C:\Projetos\arquitetura-moderna-sw-cqrs-emergingbooking-curso\code\emerging-booking\Infrastructure\EmergingBooking.Infrastructure.Cqrs\obj\Debug\netcoreapp3.1\EmergingBooking.Infrastructure.Cqrs.AssemblyInfo.cs
+C:\Projetos\arquitetura-moderna-sw-cqrs-emergingbooking-curso\code\emerging-booking\Infrastructure\EmergingBooking.Infrastructure.Cqrs\obj\Debug\netcoreapp3.1\EmergingBooking.Infrastructure.Cqrs.csproj.CoreCompileInputs.cache
+C:\Projetos\arquitetura-moderna-sw-cqrs-emergingbooking-curso\code\emerging-booking\Infrastructure\EmergingBooking.Infrastructure.Cqrs\obj\Debug\netcoreapp3.1\EmergingBooking.Infrastructure.Cqrs.dll
+C:\Projetos\arquitetura-moderna-sw-cqrs-emergingbooking-curso\code\emerging-booking\Infrastructure\EmergingBooking.Infrastructure.Cqrs\obj\Debug\netcoreapp3.1\EmergingBooking.Infrastructure.Cqrs.pdb

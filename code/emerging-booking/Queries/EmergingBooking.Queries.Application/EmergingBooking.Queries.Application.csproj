@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>EmergingBooking.Queries.Application</AssemblyName>
+    <RootNamespace>EmergingBooking.Queries.Application</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Infrastructure\EmergingBooking.Infrastructure.Cqrs\EmergingBooking.Infrastructure.Cqrs.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\EmergingBooking.Infrastructure.Storage.SqlServer\EmergingBooking.Infrastructure.Storage.SqlServer.csproj" />
+  </ItemGroup>
+
+</Project>

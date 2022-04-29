@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EmergingBooking.Management.Application/1.0.0": {
+        "dependencies": {
+          "EmergingBooking.Infrastructure.Cqrs": "1.0.0",
+          "EmergingBooking.Infrastructure.KafkaProducer": "1.0.0",
+          "EmergingBooking.Infrastructure.Storage.RavenDB": "1.0.0"
+        },
+        "runtime": {
+          "EmergingBooking.Management.Application.dll": {}
+        }
+      },
+      "EmergingBooking.Infrastructure.Cqrs/1.0.0": {
+        "runtime": {
+          "EmergingBooking.Infrastructure.Cqrs.dll": {}
+        }
+      },
+      "EmergingBooking.Infrastructure.KafkaProducer/1.0.0": {
+        "runtime": {
+          "EmergingBooking.Infrastructure.KafkaProducer.dll": {}
+        }
+      },
+      "EmergingBooking.Infrastructure.Storage.RavenDB/1.0.0": {
+        "runtime": {
+          "EmergingBooking.Infrastructure.Storage.RavenDB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmergingBooking.Management.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmergingBooking.Infrastructure.Cqrs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmergingBooking.Infrastructure.KafkaProducer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmergingBooking.Infrastructure.Storage.RavenDB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

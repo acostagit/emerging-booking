@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tqMdTDQ98qydKZ9CGeDbCsMA+kAMVGeWrnM2PQRZHUgktXJw1NzDt38e/9cSE/mEbVPwlCdvwm0650MyEv2ahw==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\arquitetura-moderna-sw-cqrs-emergingbooking-curso\\code\\emerging-booking\\Api\\Read\\EmergingBookingApiRead\\EmergingBookingApiRead.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

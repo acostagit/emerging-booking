@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>EmergingBooking.Management.Application</AssemblyName>
+    <RootNamespace>EmergingBooking.Management.Application</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Infrastructure\EmergingBooking.Infrastructure.Cqrs\EmergingBooking.Infrastructure.Cqrs.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\EmergingBooking.Infrastructure.KafkaProducer\EmergingBooking.Infrastructure.KafkaProducer.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\EmergingBooking.Infrastructure.Storage.RavenDB\EmergingBooking.Infrastructure.Storage.RavenDB.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Commands\" />
+    <Folder Include="Domain\" />
+  </ItemGroup>
+
+</Project>
